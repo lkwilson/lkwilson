@@ -7,5 +7,3 @@ Here's what my code looks like:
 - [My Bash](https://github.com/lkwilson/anybox/blob/main/skel/.bashrc.d/20_home_ps1)
 
 Hobbies: Ukulele, Chess, Minecraft, and Skiing
-
-How to reach me: lkwilson96@gmail.com
